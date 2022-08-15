@@ -2,4 +2,5 @@ Esta es la Historia de la vida Erni
 
 Erni tiene 30 años aún y vive en Tonacatepeque pero nacio en San Salvador
 
-hoy contaremos su leyenda de como aprendio a programar y a ponerse al dia con muchas tecnologias! 
+hoy contaremos su leyenda de como aprendio a programar y
+ a ponerse al dia con muchas tecnologias! 
