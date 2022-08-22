@@ -2,6 +2,9 @@
 Este es un blog para el curso de Git y GitHub de platzi
 
 ### Que es Git y GitHub?
+* Comandos Git
+* Flujo de trabajo en GitHub
+* Buenas practicas
 
 Este mini-proyecto está hecho con el proposito de compartir los conceptos que aprendí 
 de un curso que tomé para aprender a utilizar esta bonita herramienta.
